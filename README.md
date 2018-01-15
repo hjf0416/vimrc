@@ -1,1 +1,4 @@
-just copy .vimrc to ~/.vimrc
+```
+mv .vimrc ~/.vimrc
+cp -r .vim ~/.vim
+```
